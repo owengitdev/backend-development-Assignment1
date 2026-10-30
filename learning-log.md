@@ -1,0 +1,1 @@
+# Backend Development Goals: I will be developing this application by adding curical code in order for the result to be perfect. 
